@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+//test comment
+
 struct user {
     char userName[50];
     char password[50];
